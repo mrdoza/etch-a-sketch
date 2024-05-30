@@ -1,0 +1,16 @@
+#boxContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: auto;
+  height: 1000px;
+  
+}
+
+#colorBox {
+     
+  border: 2px;
+  border-style: dashed;
+  border-color: crimson;
+  width: 24%;
+  height: auto:
+}
